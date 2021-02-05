@@ -19,5 +19,8 @@ if(num>0)
    }
 }
 
-else{ return "number iss negative or zero";}
+else
+{
+return "number is negative or zero";
+}
 }
